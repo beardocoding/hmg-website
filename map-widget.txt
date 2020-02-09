@@ -1,0 +1,45 @@
+<div class="mapouter"><div class="gmap_canvas"><iframe width="500" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Hotel%20M%20Grand%20Hyderabad&t=&z=19&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://ytify.com">keep youtube mp3</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:500px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:500px;}</style></div>
+
+
+
+
+
+
+
+
+
+<div id="res_widget" class="widget_wrap zomato" style="width:300px;height:350px;"><div style="z-index:2;display:block;margin:0px;padding:0px;box-sizing:border-box;text-align:center; position:relative; font-size: 12px;"><a href="https://www.zomato.com/hyderabad/hotel-m-grand-vanasthalipuram?utm_source=referral-widget-19221879&utm_medium=restaurant_information_badge&utm_campaign=widget-business" target="_newtab" style="text-decoration: none;color : #252525; font-size:12px; font-family: 'Avenir Next', 'Helvetica Neue', Helvetica, Segoe UI, Arial, sans-serif; background: url(https://b.zmtcdn.com/images/widgets/zlogo_20.png) #fff left center no-repeat; display:block; -moz-border-radius:4px; -webkit-border-radius:4px; border-radius:4px; text-align:left; line-height: 20px; padding:0 8px 0 28px; position:absolute; top:20px; left:10px;" id="zomatoRestaurantWidget_btn">Find us on Zomato</a></div><iframe id="res_widget_frame" src="https://www.zomato.com/widgets/restaurant_widget_reviews_frame.php?show_menu=1&show_reviews=0&res_id=19221879&height=615&language_id=1" style="display:block;width:100%;height:100%;" border="0" frameborder="0"></iframe></div>
+          
+
+
+
+
+
+
+
+
+
+
+ <div class="mapouter"><div class="gmap_canvas"><iframe id="gmap_canvas" src="https://maps.google.com/maps?q=Hotel%20M%20Grand%20Hyderabad&t=&z=19&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframem">keep youtube mp3</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:500px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:500px;}</style></div>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="res_widget" class="widget_wrap" style="width:315px;height:500px;"><div style="z-index:2;display:block;margin:0px;padding:0px;box-sizing:border-box;text-align:center; position:relative; font-size: 12px;"><a href="https://www.zomato.com/hyderabad/hotel-m-grand-vanasthalipuram?utm_source=referral-widget-19221879&utm_medium=restaurant_information_badge&utm_campaign=widget-business" target="_newtab" style="text-decoration: none;color : #252525; font-size:12px; font-family: 'Avenir Next', 'Helvetica Neue', Helvetica, Segoe UI, Arial, sans-serif; background: url(https://b.zmtcdn.com/images/widgets/zlogo_20.png) #fff left center no-repeat; display:block; -moz-border-radius:4px; -webkit-border-radius:4px; border-radius:4px; text-align:left; line-height: 20px; padding:0 8px 0 28px; position:absolute; top:20px; left:10px;" id="zomatoRestaurantWidget_btn">Find us on Zomato</a></div><iframe id="res_widget_frame" src="https://www.zomato.com/widgets/restaurant_widget_reviews_frame.php?show_menu=1&show_reviews=0&res_id=19221879&height=615&language_id=1" style="display:block;width:100%;height:100%;" border="0" frameborder="0"></iframe></div>
