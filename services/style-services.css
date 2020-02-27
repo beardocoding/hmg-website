@@ -59,8 +59,21 @@ html,body {
     font-family: 'Pacifico', cursive !important;
     text-shadow: 0px 3px 0px rgb(172, 120, 25);
 }
+.loaded {
+    display: none;
+}
 
-
+#load-gallery {
+    margin: 2.5% 0;
+    padding: 1% 4%;
+    color: white;
+    background-color: rgb(204, 146, 38);
+    font-weight: 600;
+    cursor: pointer;
+}
+#load-gallery:hover {
+    background-color: rgb(172, 120, 25);
+}
 
 
 

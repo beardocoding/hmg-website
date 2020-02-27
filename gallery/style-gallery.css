@@ -2,76 +2,38 @@ html,body {
     width: 100%;
     margin: 0;
     overflow-x: hidden;
-    scroll-behavior: smooth;
 }
 
 
-.about-us {
+
+.gallery {
+    padding: 5% 0% 0% 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.gallery h1 {
+    color: rgb(204, 146, 38);
+    padding: 0 0 5% 0;
+    font-family: 'Pacifico', cursive !important;
+    text-shadow: 0px 3px 0px rgb(172, 120, 25);
+}
+.loaded {
+    display: none;
+}
+
+
+#load-gallery {
+    margin: 2.5% 0;
+    padding: 1% 4%;
     color: white;
-    font-size: 1.5rem;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
-    background-image: url('../images/bestplace.jpg');
-    background-size: cover;
-    height: 80vh;
-    padding: 0;
-}
-.au-text {
-    height: 100%;
-    width: 100%;
-    background-color: rgba(0,0,0,0.8);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    padding: 10%;
-}
-.about-us #au-title {
-    font-size: 4rem;
+    background-color: rgb(204, 146, 38);
     font-weight: 600;
+    cursor: pointer;
 }
-
-
-
-
-
-
-
-.introduction {
-    padding: 10%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    background-color: rgb(235, 235, 235);
-}
-.introduction .t1 {
-    font-family: 'Kristi', cursive;
-    color: rgb(172, 120, 25);
-    font-size: 4em;
-}
-.introduction h2 {
-    color: black;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 600;
-    margin-bottom: 1em;
-}
-.introduction .t2 {
-    color: #181818;
-    font-family: 'Quicksand', sans-serif;
-    word-wrap: break-word;
-    font-style: oblique;
-}
-
-
-
-
-
-
-
-
-.testimonials {
-    padding: 0;
+#load-gallery:hover {
+    background-color: rgb(172, 120, 25);
 }
 
 
