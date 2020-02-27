@@ -1,0 +1,246 @@
+html,body {
+    width: 100%;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+
+.about-us {
+    color: white;
+    font-size: 1.5rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    background-image: url('../images/bestplace.jpg');
+    background-size: cover;
+    height: 80vh;
+    padding: 0;
+}
+.au-text {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10%;
+}
+.about-us #au-title {
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+.introduction {
+    padding: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(235, 235, 235);
+}
+.introduction .t1 {
+    font-family: 'Kristi', cursive;
+    color: rgb(172, 120, 25);
+    font-size: 4em;
+}
+.introduction h2 {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+.introduction .t2 {
+    color: #181818;
+    font-family: 'Quicksand', sans-serif;
+    word-wrap: break-word;
+    font-style: oblique;
+}
+
+
+
+
+
+
+
+
+.testimonials {
+    padding: 0;
+}
+
+
+
+
+
+.the-map {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    padding: 0%;
+}
+.the-map iframe {
+    width: 100%;
+    height: 70vh;
+}
+
+
+
+
+
+
+
+
+
+
+.home-footer {
+    position: relative;
+    padding: 5% 0;
+    padding-bottom: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    background-image: url('../images/footer-bg.jpg');
+    background-position: center;
+    background-size: cover;
+
+    overflow: hidden;
+    padding-top: 0;
+}
+.home-footer .col {
+    padding-top: 5%;
+    z-index: 2;
+    margin: 2% 0;
+}
+.footer-overlay {
+    width: 100%;
+    background-color: rgba(13, 6, 80,0.9);
+    position: absolute;
+    z-index: 0;
+    height: 100%;
+}
+
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-logo img {
+    width: 40vh;
+    height: auto;
+}
+
+.footer-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer-links a {
+    color: #aeaeae;
+    font-weight: 400;
+    margin: 2% 0;
+    transition-duration: 0.1s;
+    font-size: 0.8em;
+}
+.footer-links a:hover {
+    color: rgb(204, 146, 38);
+    text-decoration-color: rgb(204, 146, 38);
+    text-decoration-thickness: 2px;
+    transition-duration: 0.1s;
+}
+
+
+.footer-contact {
+    display: flex;
+    padding-left: 5%;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer-contact h5 {
+    color: #aeaeae;
+    margin: 3% 0;
+}
+.footer-contact .contact-link {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 80%;
+    margin: 5% 0;
+    font-size: 0.8em;
+    color: #aeaeae;
+}
+.contact-link:hover {
+    text-decoration: none;
+    color: rgb(204, 146, 38);
+}
+.footer-contact i {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: black;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 3%;
+    
+    transform: rotate(720deg);
+    transition-duration: 0.2s;
+}
+.contact-link:hover i {
+    transform: rotate(360deg);
+    transition-duration: 0.2s;
+}
+
+
+
+.social-media-icons {
+    display: flex;
+}
+.social-media-icons i {
+    background-color: transparent;
+    color: #9b9b9b;
+    width: 35px;
+    height: 35px;
+    padding: 3%;
+    transform: rotate(720deg);
+    transition-duration: 0.2s;
+    margin-top: 3%;
+}
+.social-media-icons i:hover {
+    color: white;
+    border: 2px solid white;
+    transform: rotate(360deg);
+    transition-duration: 0.2s;
+}
+
+
+
+.footer-tandc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    border-top: 1px solid rgb(172, 120, 25);
+    position: relative;
+    z-index: 2;
+}
+.footer-tandc a {
+    color: #aeaeae;
+    text-decoration: underline;
+    text-decoration-color: #aeaeae;
+    margin: 1% 2% 1% 2%;
+}
+.footer-tandc a:hover {
+    color: white;
+}
