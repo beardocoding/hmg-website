@@ -233,7 +233,7 @@ html,body {
     font-family: 'Raleway', sans-serif;
     color: white;
     flex-direction: column;
-    font-size: 3em;
+    font-size: 2em;
     padding: 0;
     overflow: hidden;
     position: relative;
@@ -299,6 +299,28 @@ html,body {
     padding: 0;
     margin: 0;
 }
+
+
+
+.gallery-title #gallery-btn {
+    background-color: rgb(204, 146, 38);
+    color: white;
+    font-weight: 600;
+    display: block;
+    padding: 2% 4%;
+    margin: 2%;
+    cursor: pointer;
+}
+.gallery-title #gallery-btn:hover {
+    background-color: rgb(172, 120, 25);
+}
+
+
+
+
+
+
+
 
 
 

@@ -24,7 +24,7 @@ html,body {
 }
 
 
-#load-gallery {
+.load-gallery {
     margin: 2.5% 0;
     padding: 1% 4%;
     color: white;
@@ -32,7 +32,7 @@ html,body {
     font-weight: 600;
     cursor: pointer;
 }
-#load-gallery:hover {
+.load-gallery:hover {
     background-color: rgb(172, 120, 25);
 }
 
