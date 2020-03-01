@@ -13,11 +13,22 @@ html,body {
     justify-content: center;
     flex-direction: column;
 }
-.gallery h1 {
-    color: rgb(204, 146, 38);
-    padding: 0 0 5% 0;
-    font-family: 'Pacifico', cursive !important;
-    text-shadow: 0px 3px 0px rgb(172, 120, 25);
+.gallery .h1 {
+    color: rgb(255, 255, 255);
+    width: 100%;
+    padding: 0;
+    background-image: url('../images/bg3.jpg');
+    background-position: center;
+    background-size: cover;
+    margin:0;
+    padding: 6% 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Quicksand', sans-serif !important;
+    font-size: 12vh;
+    text-shadow: rgb(13, 6, 80) 0px 5px;
+    margin-bottom: 2%;
 }
 .loaded {
     display: none;
@@ -206,4 +217,9 @@ html,body {
 }
 .footer-tandc a:hover {
     color: white;
+}
+.home-footer .col {
+    padding-top: 0 !important;
+    z-index: 2;
+    margin: 2% 0;
 }

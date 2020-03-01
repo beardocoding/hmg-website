@@ -245,3 +245,8 @@ html,body {
 .footer-tandc a:hover {
     color: white;
 }
+.home-footer .col {
+    padding-top: 0 !important;
+    z-index: 2;
+    margin: 2% 0;
+}
