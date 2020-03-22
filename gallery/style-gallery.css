@@ -17,7 +17,6 @@ html,body {
     color: rgb(255, 255, 255);
     width: 100%;
     padding: 0;
-    background-image: url('../images/bg3.jpg');
     background-position: center;
     background-size: cover;
     margin:0;
@@ -32,6 +31,22 @@ html,body {
 }
 .loaded {
     display: none;
+}
+
+.gallery .restaurant {
+    background-image: url('../images/gallery/banners/restaurant.jpg');
+}
+.gallery .luxuryrooms{
+    background-image: url('../images/gallery/banners/luxuryrooms.jpg');
+}
+.gallery .banquet {
+    background-image: url('../images/gallery/banners/banquet.jpg');
+}
+.gallery .business {
+    background-image: url('../images/gallery/banners/business.jpg');
+}
+.gallery .catering {
+    background-image: url('../images/gallery/banners/catering.jpg');
 }
 
 

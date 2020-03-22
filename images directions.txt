@@ -1,0 +1,95 @@
+images-
+
+leave logos and footer images where they are only
+
+HOMEPAGE:
+
+	gallery: 6 images home-gallery-1.jpg
+			  home-gallery-2.jpg
+			  home-gallery-3.jpg
+			  home-gallery-4.jpg
+			  home-gallery-5.jpg
+			  home-gallery-6.jpg
+
+	landing-banner: 5 images bg1.jpg
+				 bg2.jpg
+				 bg3.jpg
+				 bg4.jpg
+				 bg5.jpg
+
+	bestplace banner: bestplace.jpg
+
+
+
+ABOUT US:
+
+	aboutus-banner.jpg
+
+
+SERVICES:
+
+	RESTAURANT:
+			re-gallery-1.jpg 
+			TO
+			re-gallery-12.jpg
+
+	BANQUET:
+			bq-gallery-1.jpg 
+			TO
+			bq-gallery-12.jpg
+
+	BUSINESS:
+			bu-gallery-1.jpg 
+			TO
+			bu-gallery-12.jpg
+
+	CATERING:
+			ct-gallery-1.jpg 
+			TO
+			ct-gallery-12.jpg
+
+	LUXURY-ROOMS:
+			lr-gallery-1.jpg 
+			TO
+			lr-gallery-12.jpg
+
+
+
+
+GALLERY:
+
+	RESTAURANT:
+			re-1.jpg 
+			TO
+			re-12.jpg
+
+	BANQUET:
+			bq-1.jpg 
+			TO
+			bq-12.jpg
+
+	BUSINESS:
+			bu-1.jpg 
+			TO
+			bu-12.jpg
+
+	CATERING:
+			ct-1.jpg 
+			TO
+			ct-12.jpg
+
+	LUXURY-ROOMS:
+			lr-1.jpg 
+			TO
+			lr-12.jpg
+
+
+	BANNERS:
+			restaurant.jpg
+			luxuryrooms.jpg
+			banquet.jpg
+			business.jpg
+			catering.jpg
+
+	
+			

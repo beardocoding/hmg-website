@@ -1,11 +1,11 @@
 const bg = document.getElementById('bgimg');
 
 var bg_images = [
-    'images/bg1.jpg',
-    'images/bg2.jpg',
-    'images/bg3.jpg',
-    'images/bg4.jpg',
-    'images/bg5.jpg'
+    'images/homepage/landing-banner/bg1.jpg',
+    'images/homepage/landing-banner/bg2.jpg',
+    'images/homepage/landing-banner/bg3.jpg',
+    'images/homepage/landing-banner/bg4.jpg',
+    'images/homepage/landing-banner/bg5.jpg'
 ]
 
 var index = 0;
