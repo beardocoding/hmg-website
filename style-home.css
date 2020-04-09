@@ -202,7 +202,7 @@ html,body {
     font-family: 'Quicksand', sans-serif;
     word-wrap: break-word;
     font-style: oblique;
-    margin-bottom: 5%;
+    margin-bottom: 9%;
 }
 .intro-panel #aboutus-btn {
     background-color: rgb(13, 6, 80);
@@ -228,6 +228,15 @@ html,body {
     width: 80%;
     height: 60vh;
 }
+
+.intro-panel .wel{
+    font-size: 1.6rem;
+    font-weight:500;
+    margin-top:-5% !important;
+}
+
+
+
 
 
 
